@@ -1,8 +1,8 @@
 html {
   box-sizing: border-box;
 }
-*, 
-*:before, 
+*,
+*:before,
 *:after {
   box-sizing: inherit;
 }
@@ -16,5 +16,5 @@ ul {
 }
 @media (min-width: 550px) {
 }
-@media (min-width: 850px) { 
+@media (min-width: 850px) {
 }
